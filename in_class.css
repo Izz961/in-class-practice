@@ -1,0 +1,29 @@
+header {
+    background-color: #F0F0F0;
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+}
+
+article {
+    width: 60%;
+    margin: 20px auto;
+    background-color: #E0E0E0;
+    padding: 15px;
+}
+
+aside {
+    width: 30%;
+    margin: 20px auto;
+    background-color: #D0D0D0;
+    padding: 15px;
+    float: right;
+  }
+  footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #C0C0C0;
+  padding: 10px;
+  text-align: center;
+  }
